@@ -10,3 +10,4 @@ echo "[View the Privacy Policy](./privacy_policy.html)" >> README.md
 git add README.md
 git commit -m "Add README with link to privacy policy"
 git push origin main
+[View the Privacy Policy](https://briontechnology.github.io/temporary-privacy-policy/privacy_policy.html)
